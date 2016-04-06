@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\curso asp.net\Comparacion_cadenas\Comparacion_cadenas\bin\Debug\Comparacion_cadenas.exe.config
+C:\Users\admin\Desktop\curso asp.net\Comparacion_cadenas\Comparacion_cadenas\bin\Debug\Comparacion_cadenas.exe
+C:\Users\admin\Desktop\curso asp.net\Comparacion_cadenas\Comparacion_cadenas\bin\Debug\Comparacion_cadenas.pdb
+C:\Users\admin\Desktop\curso asp.net\Comparacion_cadenas\Comparacion_cadenas\obj\Debug\Comparacion_cadenas.exe
+C:\Users\admin\Desktop\curso asp.net\Comparacion_cadenas\Comparacion_cadenas\obj\Debug\Comparacion_cadenas.pdb
